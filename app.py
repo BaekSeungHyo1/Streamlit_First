@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="광운대 퀴즈 앱", page_icon="📝")
+
 st.title("광운대학교 퀴즈 앱")
 
 st.subheader("1. 광운대의 마스코트로 옳은 것은?")
